@@ -19,3 +19,5 @@ Or if you are familiar with Vim and LSP, review the scripts and manually configu
 - Compile errors: automatically highlighted
 - Quick Fix: put cursor over a compile error and press F3, then choose a suggested quick fix
 - Hover Definitions: put cursor over a Cairo statement and press F4 to view more information (minimal support for now)
+
+![Demo animation](vim-cairo.gif)
