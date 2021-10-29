@@ -17,7 +17,8 @@ Or if you are familiar with Vim and LSP, review the scripts and manually configu
 ## Usage
 
 - Compile errors: automatically highlighted
+- Go To Definition: put cursor over a function or imported module, then press F2 to go to its definition
 - Quick Fix: put cursor over a compile error and press F3, then choose a suggested quick fix
-- Hover Definitions: put cursor over a Cairo statement and press F4 to view more information (minimal support for now)
+- Hover: put cursor over a Cairo statement and press F4 to view more information (minimal support for now)
 
 ![Demo animation](vim-cairo.gif)

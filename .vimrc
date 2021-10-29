@@ -29,3 +29,4 @@ let g:LanguageClient_serverStderr = expand('~/.vim/cairo-ls/cairo-language-serve
 
 nnoremap <silent> <F4> :call LanguageClient#textDocument_hover()<CR>
 nnoremap <silent> <F3> :call LanguageClient#textDocument_codeAction()<CR>
+nnoremap <silent> <F2> :call LanguageClient#textDocument_definition()<CR>
