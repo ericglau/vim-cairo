@@ -1,5 +1,9 @@
 # Vim Cairo
 
+THIS REPO IS DEPRECATED.  USE https://github.com/ericglau/vim-cairo INSTEAD.
+
+---
+
 Language Support for [Cairo](https://www.cairo-lang.org/) in Vim.  
 
 Makes use of the [Cairo language server](https://github.com/ericglau/cairo-ls) and [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim).
