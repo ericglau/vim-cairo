@@ -1,6 +1,6 @@
 # Vim Cairo
 
-THIS REPO IS DEPRECATED.  USE https://github.com/ericglau/vim-cairo INSTEAD.
+THIS REPOSITORY IS DEPRECATED.  SEE https://github.com/ericglau/cairo-ls/blob/main/VIM.md INSTEAD.
 
 ---
 
